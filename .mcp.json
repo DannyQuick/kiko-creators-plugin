@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "kiko": {
+      "type": "http",
+      "url": "https://agent.kikocreators.com/mcp"
+    }
+  }
+}
