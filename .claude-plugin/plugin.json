@@ -8,5 +8,15 @@
     "url": "https://meetkiko.com"
   },
   "homepage": "https://meetkiko.com",
-  "privacyPolicyUrl": "https://agent.kikocreators.com/privacy"
+  "privacyPolicyUrl": "https://agent.kikocreators.com/privacy",
+  "keywords": [
+    "creators",
+    "influencer marketing",
+    "creator discovery",
+    "outreach",
+    "instagram",
+    "tiktok",
+    "youtube"
+  ],
+  "repository": "https://github.com/DannyQuick/kiko-creators-plugin"
 }
