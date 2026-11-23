@@ -1,8 +1,8 @@
 {
   "name": "kiko",
   "displayName": "Kiko",
-  "version": "1.0.0",
-  "description": "Find Instagram, YouTube and TikTok creators who fit your product, with the reason each one fits, public contact details and a drafted first e-mail.",
+  "version": "1.1.0",
+  "description": "Find Instagram, YouTube and TikTok creators who fit your product, with their recent videos, public contact details and a sample first e-mail.",
   "author": {
     "name": "Interlude LLC",
     "url": "https://meetkiko.com"
