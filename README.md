@@ -39,6 +39,14 @@ Most of these tools only read. The ones that write start, answer or cancel a sea
 
 The plugin sends what you ask Kiko to do to your Kiko account through `agent.kikocreators.com`: your product link, your description of the product and its audience, and your requests about searches and creators. Kiko returns your searches, the creators it found and the discovery drafts. The plugin sends data to no other service and stores nothing itself.
 
+## Creator data
+
+Kiko returns public, business-facing information about creators.
+
+- **Where it comes from.** Creator profiles, videos and statistics come from creators' public pages on Instagram, YouTube and TikTok, collected for Kiko by commercial social media data providers. Contact details are public business contact e-mail addresses.
+- **Legal basis.** Kiko holds this information on the basis of legitimate interest: brands use it to offer creators paid work, which is what a public business contact is for. Kiko does not sell it and does not use it for advertising.
+- **Opting out.** A creator can ask to be removed, or to stop being contacted, by writing to emma@meetkiko.com. Kiko removes their contact details within 30 days.
+
 ## Links
 
 - Docs: https://agent.kikocreators.com/docs
